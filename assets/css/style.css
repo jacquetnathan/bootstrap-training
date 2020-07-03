@@ -1,0 +1,17 @@
+body {
+  background-color: violet;
+}
+
+body {
+  padding-top: 10px;
+}
+
+[class*="col-"] {
+  background-color: lightgreen;
+  border: 2px solid black;
+  border-radius: 6px;
+  line-height: 30px;
+  text-align: center;
+  margin-bottom: 0;
+}
+/*# sourceMappingURL=style.css.map */
