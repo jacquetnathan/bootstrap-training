@@ -5,7 +5,7 @@
 
 
 ## Qu'est ce que c'est :
-Ici vous trouverez divers excercise avec bootstrap réalisé pendant la premiere partie de ma formation chez Becode. En réalisant le même site qu'une image donner.
+Ici vous trouverez divers excercise avec bootstrap réalisé pendant la premiere partie de ma formation chez Becode.
 
 
 ## Quand ai-je travaillé dessus :
